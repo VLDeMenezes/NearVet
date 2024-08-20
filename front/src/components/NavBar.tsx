@@ -1,4 +1,5 @@
 "use client"
+import { ThemeIcon } from "@/lib/icons";
 import { NavItem, NavItemUser } from "@/lib/NavItems";
 
 import Link from "next/link";
@@ -41,6 +42,7 @@ const NavBar: React.FC = () => {
             </div>
           </button>)))}
 
+      <ThemeIcon isDark={false} />
 
     </div>
   </nav>);
