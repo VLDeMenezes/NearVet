@@ -41,7 +41,7 @@ export const NavItemUser: Array<NavItem> = [
   },
   {
     name: "Salir",
-    url: "/userDashboard",
+    url: "",
     icon: LogOutIcon,
   },
 ];
