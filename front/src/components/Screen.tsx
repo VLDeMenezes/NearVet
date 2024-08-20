@@ -3,7 +3,7 @@ interface ScreenProps {
 }
 
 const Screen: React.FC<ScreenProps> = ({ children }) => {
-  return (<main className="w-full flex flex-col bg-lightBG">
+  return (<main className="shadow-lg w-full lg:w-5/6 flex flex-col m-auto p-5 ">
     {children}
   </main>);
 };

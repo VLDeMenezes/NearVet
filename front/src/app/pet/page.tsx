@@ -1,5 +1,7 @@
+import Screen from "@/components/Screen";
+
 const Pet: React.FC = () => {
-  return (<>Pet</>);
+  return (<Screen>Pet</Screen>);
 };
 
 export default Pet;

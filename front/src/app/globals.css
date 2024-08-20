@@ -4,7 +4,7 @@
 
 @layer utilities {
   .bg-lightBG {
-    background-color: #FFF1DB;
+    background-color: #ffff;
   }
 
   .bg-darkBG {
@@ -42,16 +42,16 @@ h6 {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
+  /* body {
     @apply bg-darkBG text-darkText;
-  }
+  } */
 
-  h1,
+  /* h1,
   h2,
   h3,
   h4,
   h5,
   h6 {
     @apply text-darkHline;
-  }
+  } */
 }
