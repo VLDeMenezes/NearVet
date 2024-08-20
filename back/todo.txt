@@ -1,0 +1,34 @@
+Back.
+CRUD y preload: Users, Pets, Vets, Veterinarian, ProfileVet, 
+VetEspecialities, Appointment, 
+ExceptionsVet, ExeptionVeterinarian, AvailabilityVet, 
+AvailabilityService, Services.
+
+Preload sin CRUD: provinces, cities, species, races, sexs, 
+specialities, states, roles.
+
+el nombre de la base de datos seria NearVetDB
+
+en develop esta el back inicializado
+
+que yo pushie... clonen el repo... muevanse a la rama develop 
+y hagan un pull para traerse todo...
+
+ahi simplemente tenes que completar en cada modulo, la entity 
+correspondiente segun el DER, los DTO, y las rutas de get, create, 
+delete, y update
+
+Edu, José. Buen día. Les parece si metemos los módulos de users 
+y pets y de authGlobal. Así se puede de última crear usuario normal 
+y agregar mascotas. Y poner autenticacion a crear mascota. Eso solo
+ para el deploy. Con toda la precarga de usuarios y pets
+
+Armamos un json con bastantes datos.
+
+Yo podría hacer toda la parte de autenticación con roles. Y si querés
+métete en la lógica de los módulos Users y Pets. Y Facu que haga 
+todos los preload de esos dos. Debería incluir también el preload la 
+ raza y especie. Seguro Facu y yo te vayamos pidiendo funciones 
+ del repositorio user que vamos a necesitar
+
+De movida voy a necesitar un create. Y un getUserByEmail

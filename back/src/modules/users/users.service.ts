@@ -1,26 +1,37 @@
 import { Injectable } from '@nestjs/common';
 import { CreateUserDto } from './dto/create-user.dto';
 import { UpdateUserDto } from './dto/update-user.dto';
+import { UsersRepository } from './users.repository';
 
 @Injectable()
 export class UsersService {
-  create(createUserDto: CreateUserDto) {
-    return 'This action adds a new user';
+  constructor(private readonly usersRepository: UsersRepository){}
+
+  getUsersService(page: number, limit: number) {
+    return this.usersRepository.getUsersRepository(page, limit);
+  }
+  
+  getUsersByEmailService(id: string) {
+    return this.usersRepository.getUserByEmailRepository(id);
   }
 
-  findAll() {
-    return `This action returns all users`;
+  getUsersByIdService(id: string) {
+    return this.usersRepository.getUserByIdRepository(id);
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} user`;
+  createUserService(createUserDto: CreateUserDto) {
+    return this.usersRepository.createUserRepository(createUserDto);
   }
 
-  update(id: number, updateUserDto: UpdateUserDto) {
-    return `This action updates a #${id} user`;
+  updateUserService(id: string, updateUserDto: UpdateUserDto) {
+    return this.usersRepository.updateUserRepository(id, updateUserDto);
   }
 
-  remove(id: number) {
-    return `This action removes a #${id} user`;
+  removeUserService(id: string) {
+    return this.usersRepository.removeUserRepository(id);
+  }
+
+  unsubscribeUserService(email: string){
+    return this.usersRepository.unsubscribeUserRepository(email);
   }
 }
