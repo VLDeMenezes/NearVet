@@ -13,6 +13,7 @@ export class AuthGlobalController {
   @Post("signin")
   @ApiOperation({ summary: 'Realiza el Login y devuelve el Token de autenicacion'})
   @ApiBody({description:"Las credenciales", type: userCredentialDto})
+  // prueba
   @ApiInternalServerErrorResponse({description: "Error al intentar Loguear el Usuario"})
   @ApiBadRequestResponse({description: "Usuario o Clave incorrectos"})
   async signin (@Body() userLogin:userCredentialDto): Promise<Omit<User, "password"> & {token: string}> {
