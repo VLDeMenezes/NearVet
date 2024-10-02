@@ -1,0 +1,18 @@
+[
+    {
+        "name": "NearVet",
+        "nameCompany": "NearVet Company SRL",
+        "email": "teamhvet@gmail.com",
+        "passEmail": "jxas uoyp kapr kjut",
+        "serviceEmail": "gmail",
+        "urlWebPage": "https://near-vet-front-git-main-teamhvets-projects.vercel.app/",
+        "cuit": 30111111117,
+        "address": "Las Camelias 2345",
+        "city": "Barrio El Jaguel",
+        "startDate": "02-02-2020",
+        "imgProfile": "https://res.cloudinary.com/dtkhxygef/image/upload/v1726718039/v5rd47fpfjiysdpl8h4y.png",
+        "imgBanner": "https://res.cloudinary.com/dtkhxygef/image/upload/v1726718039/v5rd47fpfjiysdpl8h4y.png",
+        "imgLogo": "https://res.cloudinary.com/dtkhxygef/image/upload/v1726718039/v5rd47fpfjiysdpl8h4y.png",
+        "user": "lfernandez@example.com"
+    }
+]

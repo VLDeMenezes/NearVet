@@ -1,0 +1,26 @@
+[
+    {
+        "method": "Efectivo",
+        "interest": 0
+    },
+    {
+        "method": "Transferencia",
+        "interest": 0
+    },
+    {
+        "method": "Debito",
+        "interest": 0
+    },
+    {
+        "method": "Credito",
+        "interest": 0
+    },
+    {
+        "method": "QR",
+        "interest": 0
+    },
+    {
+        "method": "No Paga",
+        "interest": 0
+    }
+]

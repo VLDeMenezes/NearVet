@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Se ha programado una castración para Misha. Por favor, traiga a su mascota en ayunas.",
+        "date": "2024-09-01",
+        "endPending": "2024-09-23",
+        "notification": false,
+        "service": "Castración",
+        "pet": "Misha"
+    },
+    {
+        "description": "Rayos X programados para Rocky. Evite que el perro realice actividades bruscas antes del examen.",
+        "date": "2024-09-02",
+        "endPending": "2024-09-24",
+        "notification": false,
+        "service": "Rayos X",
+        "pet": "Rocky"
+    },
+    {
+        "description": "Se recomienda realizar una desparasitación a Nina. Tráigala en la fecha indicada.",
+        "date": "2024-09-03",
+        "endPending": "2024-09-23",
+        "notification": false,
+        "service": "Desparasitación",
+        "pet": "Nina"
+    },
+    {
+        "description": "Análisis de laboratorio para Bruno están programados. Evite alimentar a su mascota 8 horas antes.",
+        "date": "2024-09-04",
+        "endPending": "2024-09-25",
+        "notification": false,
+        "service": "Laboratorio",
+        "pet": "Bruno"
+    },
+    {
+        "description": "Ecografía para Lola agendada. Por favor, asegúrese de que esté calmada antes del examen.",
+        "date": "2024-09-05",
+        "endPending": "2024-09-24",
+        "notification": false,
+        "service": "Ecografía",
+        "pet": "Lola"
+    },
+    {
+        "description": "Consulta de cardiología programada para Coco. Tráigalo bien hidratado para el examen.",
+        "date": "2024-09-06",
+        "endPending": "2024-09-26",
+        "notification": false,
+        "service": "Cardiología",
+        "pet": "Coco"
+    }
+]

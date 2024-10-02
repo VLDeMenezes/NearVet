@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Lucas",
+    "lastName": "Fernández",
+    "email": "lfernandez@example.com",
+    "password": "Prueba@0",
+    "birthDate": "1990-03-15",
+    "startDate": "1/2/2024",
+    "phone": 15551234,
+    "address": "Av. Corrientes 1234",
+    "role": "adminVet",
+    "city": "Buenos Aires",
+    "imgProfile": "https://randomuser.me/api/portraits/men/1.jpg",
+    "dni": 11111111
+  },
+  {
+    "name": "Roberto",
+    "lastName": "Aroon",
+    "email": "roberto@example.com",
+    "password": "Prueba@0",
+    "birthDate": "1993-12-05",
+    "startDate": "1/2/2024",
+    "phone": 15551234,
+    "address": "789 Pine Road",
+    "role": "veterinarian",
+    "city": "Boston",
+    "imgProfile": "https://previews.123rf.com/images/lovleah/lovleah1205/lovleah120500041/13858335-veterinario-hombre-amable-sonriente-y-gentilmente-la-celebraci%C3%B3n-de-un-animal-de-compa%C3%B1%C3%ADa-en-la-mesa.jpg",
+    "dni": 22222222
+  },
+  {
+    "name": "Martina",
+    "lastName": "Gómez",
+    "email": "martina.gomez@example.com",
+    "password": "Prueba@0",
+    "birthDate": "1985-08-25",
+    "startDate": "1/2/2024",
+    "phone": 15551235,
+    "address": "Calle Florida 456",
+    "role": "user",
+    "city": "Buenos Aires",
+    "imgProfile": "https://randomuser.me/api/portraits/women/2.jpg",
+    "dni": 33333333
+  },
+  {
+    "name": "Juan",
+    "lastName": "Pérez",
+    "email": "juan.perez@example.com",
+    "password": "Prueba@0",
+    "birthDate": "1978-11-12",
+    "startDate": "1/2/2024",
+    "phone": 15551236,
+    "address": "Calle Lavalle 789",
+    "role": "user",
+    "city": "Buenos Aires",
+    "imgProfile": "https://randomuser.me/api/portraits/men/3.jpg",
+    "dni": 44444444
+  }
+]

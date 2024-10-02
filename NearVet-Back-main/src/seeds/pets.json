@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Misha",
+    "birthdate": "2020-04-10",
+    "color": "Gris",
+    "race": "Siamés",
+    "specie": "Felino",
+    "observation": "Le gusta trepar muebles",
+    "weightCurrent": "4",
+    "imgProfile": "https://images.unsplash.com/photo-1574158622682-e40e69881006",
+    "repCondition": "entero",
+    "sex": "Hembra",
+    "emailOwner": "martina.gomez@example.com"
+  },
+  {
+    "name": "Rocky",
+    "birthdate": "2018-09-05",
+    "color": "Negro",
+    "race": "Pastor Alemán",
+    "specie": "Canino",
+    "observation": "Muy protector",
+    "weightCurrent": "30",
+    "imgProfile": "https://images.unsplash.com/photo-1560807707-8cc77767d783",
+    "repCondition": "castrado",
+    "sex": "Macho",
+    "emailOwner": "martina.gomez@example.com"
+  },
+  {
+    "name": "Nina",
+    "birthdate": "2017-11-20",
+    "color": "Blanco",
+    "race": "Persa",
+    "specie": "Felino",
+    "observation": "Duerme mucho",
+    "weightCurrent": "3.5",
+    "imgProfile": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjr-6m4fJFTmH4sIqOHIMJbQBTMw4JhG-CcVscjg5N-fDXF6ku",
+    "repCondition": "entero",
+    "sex": "Hembra",
+    "emailOwner": "martina.gomez@example.com"
+  },
+  {
+    "name": "Bruno",
+    "birthdate": "2021-01-25",
+    "color": "Dorado",
+    "race": "Golden Retriever",
+    "specie": "Canino",
+    "observation": "Le encanta nadar",
+    "weightCurrent": "20",
+    "imgProfile": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS00BDYjINhNILyC7HRxd5zKixKGSW9vXy3ooc9sDGOTSVPZBnI",
+    "repCondition": "entero",
+    "sex": "Macho",
+    "emailOwner": "juan.perez@example.com"
+  },
+  {
+    "name": "Lola",
+    "birthdate": "2019-03-15",
+    "color": "Tricolor",
+    "race": "Beagle",
+    "specie": "Canino",
+    "observation": "Muy juguetona",
+    "weightCurrent": "10",
+    "imgProfile": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0fxtDkOfFmhWh1WIeUA6WSs-FJfjBvY6eZEXE-uMde1K6xa_Q",
+    "repCondition": "castrado",
+    "sex": "Hembra",
+    "emailOwner": "juan.perez@example.com"
+  },
+  {
+    "name": "Coco",
+    "birthdate": "2018-08-12",
+    "color": "Marrón y blanco",
+    "race": "Bulldog Francés",
+    "specie": "Canino",
+    "observation": "Roncador",
+    "weightCurrent": "12",
+    "imgProfile": "https://images.unsplash.com/photo-1560807707-8cc77767d783",
+    "repCondition": "castrado",
+    "sex": "Macho",
+    "emailOwner": "juan.perez@example.com"
+  }
+]

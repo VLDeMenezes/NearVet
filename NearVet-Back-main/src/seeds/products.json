@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Vacuna Antirrábica",
+      "description": "Esta vacuna es esencial para prevenir la rabia en perros y gatos, una enfermedad viral fatal.",
+      "stock": 25,
+      "price": 300,
+      "image": "https://images.pexels.com/photos/5886068/pexels-photo-5886068.jpeg",
+      "cost": 150
+    },
+    {
+      "name": "Antiparasitario Drontal Plus",
+      "description": "Antiparasitario de amplio espectro para perros, utilizado para tratar infecciones internas de parásitos como lombrices y tenias.",
+      "stock": 15,
+      "price": 350,
+      "image": "https://images.pexels.com/photos/4482444/pexels-photo-4482444.jpeg",
+      "cost": 180
+    },
+    {
+      "name": "Vacuna Triple Felina",
+      "description": "Vacuna combinada para gatos que previene la rinotraqueítis, calicivirus y panleucopenia felina.",
+      "stock": 30,
+      "price": 400,
+      "image": "https://images.pexels.com/photos/4588057/pexels-photo-4588057.jpeg",
+      "cost": 200
+    },
+    {
+      "name": "Antibiótico Amoxicilina 500mg",
+      "description": "Antibiótico de amplio espectro para el tratamiento de infecciones bacterianas en perros y gatos.",
+      "stock": 50,
+      "price": 150,
+      "image": "https://images.pexels.com/photos/4173620/pexels-photo-4173620.jpeg",
+      "cost": 80
+    },
+    {
+      "name": "Desparasitante Endogard",
+      "description": "Desparasitante oral para perros que protege contra gusanos intestinales y algunos parásitos externos.",
+      "stock": 40,
+      "price": 320,
+      "image": "https://images.pexels.com/photos/4149050/pexels-photo-4149050.jpeg",
+      "cost": 160
+    },
+    {
+      "name": "Vacuna Pentavalente Canina",
+      "description": "Vacuna para perros que protege contra moquillo, hepatitis, leptospirosis, parainfluenza y parvovirus.",
+      "stock": 35,
+      "price": 450,
+      "image": "https://images.pexels.com/photos/2324505/pexels-photo-2324505.jpeg",
+      "cost": 220
+    },
+    {
+      "name": "Antiinflamatorio Meloxicam",
+      "description": "Antiinflamatorio no esteroideo para aliviar el dolor y la inflamación en perros y gatos.",
+      "stock": 20,
+      "price": 250,
+      "image": "https://images.pexels.com/photos/3645861/pexels-photo-3645861.jpeg",
+      "cost": 120
+    },
+    {
+      "name": "Collar Antipulgas Seresto",
+      "description": "Collar antiparasitario que ofrece protección contra pulgas y garrapatas durante 8 meses.",
+      "stock": 60,
+      "price": 800,
+      "image": "https://images.pexels.com/photos/3299906/pexels-photo-3299906.jpeg",
+      "cost": 400
+    },
+    {
+      "name": "Suero Oral Rehidratante",
+      "description": "Solución oral para la rehidratación de mascotas, especialmente útil durante episodios de diarrea o vómitos.",
+      "stock": 45,
+      "price": 150,
+      "image": "https://images.pexels.com/photos/4052197/pexels-photo-4052197.jpeg",
+      "cost": 70
+    },
+    {
+      "name": "Vacuna Bordetella Bronchiseptica",
+      "description": "Vacuna contra la tos de las perreras, una enfermedad respiratoria común en perros.",
+      "stock": 18,
+      "price": 300,
+      "image": "https://images.pexels.com/photos/3656931/pexels-photo-3656931.jpeg",
+      "cost": 140
+    },
+    {
+      "name": "Spray Antiséptico Veterinario",
+      "description": "Spray desinfectante para heridas y cortes menores en mascotas, ayudando a prevenir infecciones.",
+      "stock": 70,
+      "price": 200,
+      "image": "https://images.pexels.com/photos/1229004/pexels-photo-1229004.jpeg",
+      "cost": 100
+    },
+    {
+      "name": "Antiparasitario Advocate",
+      "description": "Tratamiento tópico para pulgas, garrapatas y parásitos intestinales en perros y gatos.",
+      "stock": 33,
+      "price": 550,
+      "image": "https://images.pexels.com/photos/4077546/pexels-photo-4077546.jpeg",
+      "cost": 270
+    },
+    {
+      "name": "Vacuna Leptospirosis Canina",
+      "description": "Vacuna para prevenir la leptospirosis en perros, una enfermedad bacteriana que puede ser mortal.",
+      "stock": 22,
+      "price": 350,
+      "image": "https://images.pexels.com/photos/4013718/pexels-photo-4013718.jpeg",
+      "cost": 180
+    },
+    {
+      "name": "Antibiótico Cefalexina 250mg",
+      "description": "Antibiótico efectivo para tratar infecciones de la piel, tracto urinario y tejidos blandos en mascotas.",
+      "stock": 55,
+      "price": 180,
+      "image": "https://images.pexels.com/photos/3936422/pexels-photo-3936422.jpeg",
+      "cost": 90
+    },
+    {
+      "name": "Antihelmíntico Panacur",
+      "description": "Antihelmíntico oral para perros y gatos, efectivo contra varios tipos de parásitos intestinales.",
+      "stock": 30,
+      "price": 300,
+      "image": "https://images.pexels.com/photos/4114705/pexels-photo-4114705.jpeg",
+      "cost": 140
+    }
+  ]
+  

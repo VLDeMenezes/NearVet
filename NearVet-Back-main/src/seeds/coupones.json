@@ -1,0 +1,22 @@
+[
+    {
+        "code": "Nearvet0",
+        "valorPorc": 20,
+        "user": "martina.gomez@example.com"
+    },
+    {
+        "code": "Nearvet1",
+        "valorPorc": 20,
+        "user": "martina.gomez@example.com"
+    },
+    {
+        "code": "Nearvet2",
+        "valorPorc": 20,
+        "user": "juan.perez@example.com"
+    },
+    {
+        "code": "Nearvet3",
+        "valorPorc": 20,
+        "user": "juan.perez@example.com"
+    }
+]

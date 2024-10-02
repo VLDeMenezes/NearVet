@@ -1,0 +1,80 @@
+[
+    {
+      "observation": "El paciente requiere reposo y medicación postoperatoria.",
+      "description": "Castración con anestesia local y cuidados posteriores.",
+      "price": 10000,
+      "service": "Castración",
+      "clinicalExamination": 7
+    },
+    {
+      "observation": "El paciente presenta signos de fatiga, recomendado control cardíaco.",
+      "description": "Consulta de cardiología para evaluación de arritmias.",
+      "price": 10000,
+      "service": "Cardiología",
+      "clinicalExamination": 7
+    },
+    {
+      "observation": "Fractura en extremidad, se recomienda rayos X para evaluación.",
+      "description": "Rayos X para diagnóstico de fractura ósea.",
+      "price": 9000,
+      "service": "Rayos X",
+      "clinicalExamination": 10
+    },
+    {
+      "observation": "Necesidad de análisis completos para descartar infecciones.",
+      "description": "Pruebas de laboratorio para diagnóstico general.",
+      "price": 15000,
+      "service": "Laboratorio",
+      "clinicalExamination": 10
+    },
+    {
+      "observation": "Se detectaron anomalías en el abdomen, se recomienda ecografía.",
+      "description": "Ecografía abdominal para evaluar masa detectada.",
+      "price": 12000,
+      "service": "Ecografía",
+      "clinicalExamination": 12
+    },
+    {
+      "observation": "Posible tumor en abdomen, se programó cirugía urgente.",
+      "description": "Cirugía mayor para extirpar tumor.",
+      "price": 20000,
+      "service": "Cirugía",
+      "clinicalExamination": 12
+    },
+    {
+      "observation": "Paciente en condición terminal, se recomienda eutanasia.",
+      "description": "Eutanasia por razones humanitarias.",
+      "price": 25000,
+      "service": "Eutanasia",
+      "clinicalExamination": 15
+    },
+    {
+      "observation": "Requiere vacunación anual.",
+      "description": "Vacunación contra enfermedades comunes.",
+      "price": 9000,
+      "service": "Vacunación",
+      "clinicalExamination": 9
+    },
+    {
+      "observation": "Se recomienda desparasitación preventiva.",
+      "description": "Desparasitación para control de parásitos internos.",
+      "price": 9000,
+      "service": "Desparasitación",
+      "clinicalExamination": 9
+    },
+    {
+      "observation": "Paciente presenta complicaciones tras cirugía, requiere rayos X adicionales.",
+      "description": "Rayos X para evaluar estado postoperatorio.",
+      "price": 9000,
+      "service": "Rayos X",
+      "clinicalExamination": 13
+    },
+    {
+      "observation": "Necesidad de pruebas adicionales tras análisis de laboratorio.",
+      "description": "Laboratorio avanzado para evaluar función renal.",
+      "price": 15000,
+      "service": "Laboratorio",
+      "clinicalExamination": 13
+    }
+  ]
+  

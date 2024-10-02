@@ -1,0 +1,33 @@
+[
+    {
+      "description": "Administrar 1 comprimido de Drontal Plus por cada 10 kg de peso, una vez al día, durante 3 días.",
+      "product": "Antiparasitario Drontal Plus",
+      "clinicalExamination": 7
+    },
+    {
+      "description": "Administrar 1 cápsula de Amoxicilina 500mg cada 12 horas, por 7 días consecutivos.",
+      "product": "Antibiótico Amoxicilina 500mg",
+      "clinicalExamination": 10
+    },
+    {
+      "description": "Dar 1 comprimido de Endogard por cada 5 kg de peso, una vez cada 3 meses.",
+      "product": "Desparasitante Endogard",
+      "clinicalExamination": 12
+    },
+    {
+      "description": "Administrar 1 ml de Meloxicam por vía oral una vez al día, durante 5 días, para reducir la inflamación.",
+      "product": "Antiinflamatorio Meloxicam",
+      "clinicalExamination": 15
+    },
+    {
+      "description": "Dar 1 comprimido de Drontal Plus por cada 10 kg de peso, una vez cada 6 meses como tratamiento preventivo.",
+      "product": "Antiparasitario Drontal Plus",
+      "clinicalExamination": 9
+    },
+    {
+      "description": "Administrar 1 cápsula de Amoxicilina 500mg cada 8 horas, por 5 días consecutivos, en casos de infecciones graves.",
+      "product": "Antibiótico Amoxicilina 500mg",
+      "clinicalExamination": 13
+    }
+  ]
+  

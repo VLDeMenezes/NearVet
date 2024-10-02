@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-lightBG {
+    background-color: #ffff;
+  }
+
+  .bg-darkBG {
+    background-color: #333333;
+  }
+
+  .text-lightText {
+    color: #686868;
+  }
+
+  .text-darkText {
+    color: #A3A3A3;
+  }
+
+  .text-lightHline {
+    color: #333333;
+  }
+
+  .text-darkHline {
+    color: #CCCCCC;
+  }
+}
+
+body {
+  @apply bg-lightBG text-lightText dark:bg-darkBG dark:text-darkText;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply text-lightHline;
+}
+
+/* Referencias para schedule */
+@import "../../node_modules/@syncfusion/ej2-base/styles/material.css";
+@import "../../node_modules/@syncfusion/ej2-buttons/styles/material.css";
+@import "../../node_modules/@syncfusion/ej2-calendars/styles/material.css";
+@import "../../node_modules/@syncfusion/ej2-dropdowns/styles/material.css";
+@import "../../node_modules/@syncfusion/ej2-inputs/styles/material.css";
+@import "../../node_modules/@syncfusion/ej2-navigations/styles/material.css";
+@import "../../node_modules/@syncfusion/ej2-popups/styles/material.css";
+@import "../../node_modules/@syncfusion/ej2-react-schedule/styles/material.css";

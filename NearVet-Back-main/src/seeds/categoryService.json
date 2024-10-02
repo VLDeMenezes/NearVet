@@ -1,0 +1,12 @@
+[
+    {
+      "categoryService": "Veterinaria",
+      "description": "En NearVet, tu mascota recibe la mejor atención veterinaria: consultas, vacunas, emergencias y más. Cuidamos su salud con amor y profesionalismo. ¡Visítanos!",
+      "image": "https://wakyma.com/wakymavets/blog/wp-content/uploads/2017/10/5-consejos-para-dar-un-servicio-de-atencio%CC%81n-al-cliente-de-calidad-en-nuestra-Cli%CC%81nica-Veterinaria.jpg"
+    },
+    {
+      "categoryService": "Peluqueria",
+      "description": "¡Mima a tu mascota en la peluquería de NearVet! Corte, baño, y estilo con el cuidado y cariño que tu peludo merece. ¡Visítanos y descubre cómo realzamos su belleza!",
+      "image": "https://holavet.com.ar/wp-content/uploads/2023/10/pexels-gustavo-fring-6816860-1024x683.jpg"
+    }
+  ]

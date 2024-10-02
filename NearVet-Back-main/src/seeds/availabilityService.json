@@ -1,0 +1,48 @@
+[
+  {
+    "day": 1,
+    "startHour1": "08:00",
+    "endHour1": "12:00",
+    "startHour2": "15:00",
+    "endHour2": "24:00",
+    "licence": 19876
+  },
+  {
+    "day": 2,
+    "startHour1": "08:00",
+    "endHour1": "12:00",
+    "startHour2": "15:00",
+    "endHour2": "24:00",
+    "licence": 19876
+  },
+  {
+    "day": 3,
+    "startHour1": "08:00",
+    "endHour1": "12:00",
+    "startHour2": "15:00",
+    "endHour2": "24:00",
+    "licence": 19876
+  },
+  {
+    "day": 4,
+    "startHour1": "08:00",
+    "endHour1": "12:00",
+    "startHour2": "15:00",
+    "endHour2": "24:00",
+    "licence": 19876
+  },
+  {
+    "day": 5,
+    "startHour1": "08:00",
+    "endHour1": "12:00",
+    "startHour2": "15:00",
+    "endHour2": "24:00",
+    "licence": 19876
+  },
+  {
+    "day": 6,
+    "startHour1": "08:00",
+    "endHour1": "12:00",
+    "licence": 19876
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+      "service": "Castración",
+      "category": "Veterinaria",
+      "description": "Procedimiento quirúrgico para eliminar los órganos reproductivos de la mascota, evitando así la reproducción.",
+      "sendMessage": "Es necesario que la mascota esté en ayuno de alimentos y líquidos durante 12 horas antes del procedimiento. De no hacerlo, la mascota corre riesgo.",
+      "price": 10000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Rayos X",
+      "category": "Veterinaria",
+      "description": "Examen radiológico que permite visualizar la estructura ósea para diagnosticar posibles fracturas o anomalías.",
+      "sendMessage": "Asegúrate de que la mascota no tenga ningún objeto metálico en su cuerpo antes del examen.",
+      "price": 9000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Laboratorio",
+      "category": "Veterinaria",
+      "description": "Análisis de muestras biológicas para evaluar la salud general de la mascota y detectar enfermedades.",
+      "sendMessage": "Se requiere que la mascota esté en ayuno de alimentos y líquidos durante 12 horas antes de la toma de muestras.",
+      "price": 15000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Ecografía",
+      "category": "Veterinaria",
+      "description": "Examen de diagnóstico por imágenes que utiliza ultrasonido para visualizar órganos internos y detectar problemas de salud.",
+      "sendMessage": "La mascota debe estar en ayuno de alimentos y líquidos durante 12 horas antes de la ecografía para obtener imágenes claras.",
+      "price": 12000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Cirugía",
+      "category": "Veterinaria",
+      "description": "Procedimiento quirúrgico para tratar diversas condiciones médicas o realizar intervenciones necesarias en la mascota.",
+      "sendMessage": "La mascota debe estar en ayuno de alimentos y líquidos durante 12 horas antes de la cirugía para evitar complicaciones.",
+      "price": 20000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Cardiología",
+      "category": "Veterinaria",
+      "description": "Evaluación y tratamiento de problemas cardíacos en mascotas mediante exámenes especializados.",
+      "sendMessage": "Asegúrate de que la mascota esté tranquila antes del examen para obtener resultados precisos.",
+      "price": 10000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Eutanasia",
+      "category": "Veterinaria",
+      "description": "Procedimiento para poner fin a la vida de una mascota de manera digna y sin dolor en caso de enfermedades terminales o sufrimiento.",
+      "sendMessage": "No se requiere preparación especial, pero es importante que el dueño esté preparado emocionalmente.",
+      "price": 25000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Vacunación",
+      "category": "Veterinaria",
+      "description": "Aplicación de vacunas para proteger a la mascota contra enfermedades infecciosas.",
+      "sendMessage": "Asegúrate de que la mascota esté en buen estado de salud antes de la vacunación.",
+      "price": 9000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Desparasitación",
+      "category": "Veterinaria",
+      "description": "Tratamiento para eliminar parásitos internos o externos en la mascota.",
+      "sendMessage": "No se requiere preparación especial, pero asegúrate de seguir las instrucciones para el tratamiento.",
+      "price": 9000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Corte de Raza",
+      "category": "Peluqueria",
+      "description": "Corte de pelo específico para la raza de tu mascota, manteniéndola estilizada y acorde a los estándares de su raza.",
+      "sendMessage": "No se requiere preparación especial, solo asegúrate de que tu mascota esté limpia antes del corte.",
+      "price": 10000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Baño",
+      "category": "Peluqueria",
+      "description": "Baño completo para la mascota, eliminando suciedad y dejando el pelaje limpio y esponjoso.",
+      "sendMessage": "No se requiere preparación especial, pero es importante que la mascota esté seca antes de cualquier otro tratamiento.",
+      "price": 9000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Corte de Uña",
+      "category": "Peluqueria",
+      "description": "Corte de uñas para prevenir el crecimiento excesivo que puede causar molestias a la mascota.",
+      "sendMessage": "No se requiere preparación especial, pero es útil tener una mascota calmada durante el corte.",
+      "price": 15000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Limpieza de Ojos",
+      "category": "Peluqueria",
+      "description": "Limpieza de ojos para eliminar secreciones y mantener una buena higiene ocular en la mascota.",
+      "sendMessage": "No se requiere preparación especial, pero asegúrate de que la mascota esté tranquila durante la limpieza.",
+      "price": 12000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Limpieza de Orejas",
+      "category": "Peluqueria",
+      "description": "Limpieza de oídos para eliminar cerumen y prevenir infecciones en la mascota.",
+      "sendMessage": "Asegúrate de que la mascota esté tranquila durante la limpieza para evitar molestias.",
+      "price": 20000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Baño con Corte",
+      "category": "Peluqueria",
+      "description": "Combo de baño y corte de pelo para mantener a la mascota limpia y con un aspecto bien cuidado.",
+      "sendMessage": "No se requiere preparación especial, pero asegúrate de que la mascota esté limpia antes del corte.",
+      "price": 10000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  },
+  {
+      "service": "Corte de Pelo y Uñas",
+      "category": "Peluqueria",
+      "description": "Servicio combinado de corte de pelo y uñas para mantener a la mascota en óptimas condiciones.",
+      "sendMessage": "Asegúrate de que la mascota esté calmada y limpia antes del servicio.",
+      "price": 25000,
+      "licenceVet": 19876,
+      "durationMin": 20
+  }
+]
